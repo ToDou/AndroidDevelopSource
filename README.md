@@ -8,7 +8,8 @@ Some tip or source for android develop
 
 * [Templates in Android Studio](https://riggaroo.co.za/custom-file-templates-android-studio/)
 
-* [Android Studio protip](https://medium.com/sebs-top-tips)
+* [Android Studio protip](https://medium.com/sebs-top-tips)  
+
 ## Apk Security
 * Proguard
   * [Shrink Your Code and Resources](https://developer.android.com/studio/build/shrink-code.html)  
